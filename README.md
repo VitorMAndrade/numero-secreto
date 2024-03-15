@@ -15,5 +15,5 @@
 
 ![image](https://github.com/VitorMAndrade/numero-secreto/assets/30542437/96a6130e-5d81-4ce7-90f8-1abb86b33de3)
 
-<a href="https://numero-secreto-ten-zeta.vercel.app/">Jogue agora vocÊ também!</a>
+<a href="https://numero-secreto-ten-zeta.vercel.app/">Jogue agora você também!</a>
 <p>Só não se esqueça da permissão para usar o seu microfone, beleza?</p>
